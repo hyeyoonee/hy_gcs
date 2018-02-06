@@ -1,0 +1,4 @@
+login(){
+id
+psw
+}
